@@ -1,0 +1,7 @@
+langgraph
+langchain-google-genai
+pygithub
+chromadb
+typer
+pydantic-settings
+python-dotenv
